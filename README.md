@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on new epic, fun, and unique projects.
 - 🤔 I’m looking for help with 
-- 💬 Ask me about ..
+- 💬 Ask me about Math, science, 
 - 📫 How to reach me: Feel free to send me a message via [Facebook](https://www.facebook.com/itamar.falush/)
-- 😄 Pronouns: ...
+- 😄 Pronouns: I, He, Sir, Mr., Falush.
 - ⚡ Fun fact: ...
 
 <img src="https://github-readme-stats.vercel.app/api?username=itamarfalush&show_icons=true&icon_color=0366d6&bg_color=0d1117&text_color=ffffff&hide_title=false" alt="GitHub Stats for Itamar Falush (itamarfalush)">
